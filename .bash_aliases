@@ -1,0 +1,15 @@
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias nordlayer="sudo nordlayer"
+alias nlc-mumbai="nordlayer connect mumbai-gateway-W7AghMYe"
+alias nlc-bk="nordlayer connect brooklyn-gateway-tyFDKETV"
+alias nld="nordlayer disconnect"
+alias lg="lazygit"
+alias air='$(go env GOPATH)/bin/air'
+alias nv='nvim'
+alias gt='gnome-terminal'
+alias ff='~/.config/tmux-scripts/tmux-session-maker.sh'
+alias fff='~/.config/tmux-scripts/tmux-session-maker-play.sh'
+alias fo='~/.config/tmux-scripts/fzf-opener.sh'
+alias fr='~/.config/tmux-scripts/tmux-session-maker-random.sh'
